@@ -1,3 +1,4 @@
 .vscode
-
+src/tmpnodejsnpm-cache
+src/public/css
 node_modules/
